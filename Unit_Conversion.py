@@ -25,7 +25,7 @@ class MyApp(QDialog):
 
         self.setLayout(vbox)
 
-        self.setWindowTitle('QTabWidget')
+        self.setWindowTitle('Unit Conversion')
         self.setGeometry(300, 300, 400, 300)
         self.show()
 
